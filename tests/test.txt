@@ -1,0 +1,3 @@
+/Users/youlongliu/workspace/ece570_hw0/tests/test1.txt
+/Users/youlongliu/workspace/ece570_hw0/tests/test2.txt
+/Users/youlongliu/workspace/ece570_hw0/tests/test3.txt
